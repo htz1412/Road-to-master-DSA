@@ -6,10 +6,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class RomanToInteger {
-  public static void main(String[] args) {
-    System.out.println(romanToInt("IV"));
-  }
-
   public static int romanToInt(String s) {
     Map<String, Integer> romanToInteger = new HashMap();
     romanToInteger.put("I", 1);
