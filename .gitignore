@@ -22,9 +22,13 @@
 .zip
 .tar.gz
 .rar
+.iml
 
 # virtual machine crash logs, see httpwww.java.comendownloadhelperror_hotspot.xml
 hs_err_pid
 replay_pid
 
+# IntelliJ IDE folders
+.idea/
+out/
 # End of httpswww.toptal.comdevelopersgitignoreapijava
